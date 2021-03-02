@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95006c58-d5c5-4d14-a10b-87b650a90175" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614688895547</updated>
-      <workItem from="1614688898690" duration="874000" />
+      <workItem from="1614688898690" duration="3777000" />
     </task>
     <servers />
   </component>
@@ -77,9 +78,13 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614689137159" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614689366152">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614690012419">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614689366152" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614690012419" />
+    <state x="464" y="219" key="git4idea.merge.GitPullDialog" timestamp="1614691405814">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="464" y="219" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1614691405814" />
   </component>
 </project>
