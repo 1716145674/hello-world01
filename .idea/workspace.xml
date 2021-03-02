@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95006c58-d5c5-4d14-a10b-87b650a90175" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,21 +50,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1614688895547</updated>
-      <workItem from="1614688898690" duration="239000" />
+      <workItem from="1614688898690" duration="874000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="627" y="313" key="Github.ShareDialog" timestamp="1614688984697">
+    <state x="627" y="313" key="Github.ShareDialog" timestamp="1614689757143">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="627" y="313" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1614688984697" />
+    <state x="627" y="313" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1614689757143" />
     <state x="272" y="62" key="SettingsEditor" timestamp="1614689137159">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614689137159" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614689366152">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614689366152" />
   </component>
 </project>
