@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c55bb0a-8944-420d-8bea-78743c4ae1db" name="Default Changelist" comment="" />
+    <list default="true" id="3c55bb0a-8944-420d-8bea-78743c4ae1db" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,14 +44,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="95006c58-d5c5-4d14-a10b-87b650a90175" name="Default Changelist" comment="" />
+      <changelist id="3c55bb0a-8944-420d-8bea-78743c4ae1db" name="Default Changelist" comment="" />
       <created>1614688895547</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -56,6 +59,7 @@
       <workItem from="1614688898690" duration="4517000" />
       <workItem from="1614732180257" duration="1337000" />
       <workItem from="1614827143208" duration="520000" />
+      <workItem from="1614829589648" duration="235000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;第二次测试&quot;">
       <created>1614732246037</created>
@@ -71,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614737009417</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="&quot;dev分支整合完毕&quot;">
+      <created>1614829250446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1614829250446</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,25 +104,26 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;第二次测试&quot;" />
     <MESSAGE value="&quot;第三次测试&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;第三次测试&quot;" />
+    <MESSAGE value="&quot;dev分支整合完毕&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;dev分支整合完毕&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="14" key="CommitChangelistDialog2" timestamp="1614737008901">
+    <state x="385" y="14" key="CommitChangelistDialog2" timestamp="1614829249901">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="385" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1614737008901" />
+    <state x="385" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1614829249901" />
     <state x="627" y="313" key="Github.ShareDialog" timestamp="1614689757143">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="627" y="313" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1614689757143" />
-    <state x="272" y="62" key="SettingsEditor" timestamp="1614689137159">
+    <state x="272" y="62" key="SettingsEditor" timestamp="1614829576511">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614689137159" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614827197447">
+    <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614829576511" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614829258795">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614827197447" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614829258795" />
     <state x="464" y="219" key="git4idea.merge.GitPullDialog" timestamp="1614691405814">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
