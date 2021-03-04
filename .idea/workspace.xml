@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="95006c58-d5c5-4d14-a10b-87b650a90175" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +14,11 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
@@ -51,7 +57,8 @@
       <option name="presentableId" value="Default" />
       <updated>1614688895547</updated>
       <workItem from="1614688898690" duration="4517000" />
-      <workItem from="1614732180257" duration="679000" />
+      <workItem from="1614732180257" duration="1337000" />
+      <workItem from="1614827143208" duration="520000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;第二次测试&quot;">
       <created>1614732246037</created>
@@ -60,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614732246038</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;第三次测试&quot;">
+      <created>1614737009417</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614737009417</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,13 +95,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;第二次测试&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;第二次测试&quot;" />
+    <MESSAGE value="&quot;第三次测试&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;第三次测试&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="385" y="14" key="CommitChangelistDialog2" timestamp="1614732245405">
+    <state x="385" y="14" key="CommitChangelistDialog2" timestamp="1614737008901">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="385" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1614732245405" />
+    <state x="385" y="14" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1614737008901" />
     <state x="627" y="313" key="Github.ShareDialog" timestamp="1614689757143">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -96,10 +111,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="272" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1614689137159" />
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614736986015">
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2" timestamp="1614827197447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614736986015" />
+    <state x="361" y="153" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1614827197447" />
     <state x="464" y="219" key="git4idea.merge.GitPullDialog" timestamp="1614691405814">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
